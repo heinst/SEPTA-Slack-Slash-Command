@@ -1,0 +1,7 @@
+{
+  "name": "SEPTA Slack Slash Command",
+  "description": "A simple slash command for slack that gives you SEPTA train info",
+  "repository": "https://github.com/heinst/SEPTA-Slack-Slash-Command",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SEPTA_text.svg/2000px-SEPTA_text.svg.png",
+  "keywords": ["septa", "slack", "slash", "command"]
+}
